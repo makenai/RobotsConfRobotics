@@ -4,7 +4,7 @@ Let's talk about Robotics to the awesome people at RobotsConf! We will go over w
 
 Then we'll take a look at our workshop and what you can expect from it.
 
-By @makenai, @arizzitano and @beriberikix.
+By [Ari](https://github.com/arizzitano), [Jon](https://github.com/beriberikix) and [Pawel](https://github.com/makenai).
 
 ## License
 
