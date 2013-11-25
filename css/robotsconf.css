@@ -1,0 +1,43 @@
+.reveal section img.flaming {
+  border: none; 
+  box-shadow: none;
+  background: url('../img/flame.gif');
+  background-size: 700px 525px;
+}
+
+.reveal section img.noborder {
+  border: none; 
+  box-shadow: none;
+  background: url('../img/flame.gif');  
+}
+
+
+.presenter {
+  width: 300px;
+  display: inline-block;
+}
+
+.presenter a {
+  display: block;
+  font-size: 24px;
+}
+
+#whatisrobot {
+  width: 225px;
+  height: 225px;
+  display: inline-block;
+  background: url('../img/whatisrobot.gif');
+}
+
+.doge p {
+  color: #cc4c31;
+  display: inline-block;
+  width: 400px;
+  text-indent: 10px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  text-shadow: 2px 0 #000;
+}
+.doge p:nth-child(2) { color: #0424f3; }
+.doge p:nth-child(3) { color: #ff21f5; }
+.doge p:nth-child(4) { color: #0acffa; }
+.doge p:nth-child(5) { color: #2cfc55; }
