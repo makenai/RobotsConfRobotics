@@ -8,9 +8,13 @@
 .reveal section img.noborder {
   border: none; 
   box-shadow: none;
-  background: url('../img/flame.gif');  
 }
 
+.reveal section img.smnoborder {
+  border: none; 
+  box-shadow: none;
+  width: 300px;
+}
 
 .presenter {
   width: 300px;
@@ -27,6 +31,16 @@
   height: 225px;
   display: inline-block;
   background: url('../img/whatisrobot.gif');
+}
+
+.visible {
+  color: #fff !important;
+  text-shadow: 4px 0 #000 !important;
+}
+
+.visible2 {
+  color: #ee0 !important;
+  text-shadow: 4px 0 #000 !important;
 }
 
 .doge p {
