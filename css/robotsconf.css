@@ -16,6 +16,12 @@
   width: 300px;
 }
 
+.reveal section img.xsmnoborder {
+  border: none; 
+  box-shadow: none;
+  width: 200px;
+}
+
 .presenter {
   width: 300px;
   display: inline-block;
@@ -40,6 +46,13 @@
 
 .visible2 {
   color: #ee0 !important;
+  text-shadow: 4px 0 #000 !important;
+}
+
+.visible3 {
+  color: #0ee !important;
+  height: 170px;
+  background-color: rgba(20,20,20,0.5);
   text-shadow: 4px 0 #000 !important;
 }
 
