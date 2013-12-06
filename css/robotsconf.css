@@ -27,6 +27,10 @@
   display: inline-block;
 }
 
+.faded {
+  opacity: 0.5;
+}
+
 .presenter a {
   display: block;
   font-size: 24px;
